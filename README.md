@@ -1,6 +1,6 @@
 # week 1 Assignment
 
-All MongoDB queries are split into separate files my clarity:
+All MongoDB queries are split into separate files for clarity:
 
 - `insert_books.js` → inserts sample books  
 - `find_books.js` → contains find queries  
