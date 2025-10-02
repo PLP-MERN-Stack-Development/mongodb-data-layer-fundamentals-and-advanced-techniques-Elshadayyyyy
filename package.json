@@ -1,0 +1,26 @@
+{
+  "name": "week1-mongodb",
+  "version": "1.0.0",
+  "description": "MongoDB Week 1 Assignment",
+  "type": "module",
+  "main": "connect.js",
+  "scripts": {
+    "start": "node connect.js",
+    "insert": "node insert_books.js",
+    "find": "node find_books.js",
+    "update": "node update_books.js",
+    "delete": "node delete_books.js",
+    "aggregate": "node aggregate_books.js",
+    "index": "node index_books.js"
+  },
+  "keywords": [
+    "mongodb",
+    "nodejs",
+    "week1"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^5.8.0"
+  }
+}
